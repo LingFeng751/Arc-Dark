@@ -15,7 +15,10 @@
 [Arcaea - 创新立体节奏游戏](https://arcaea.lowiro.com/)
 
 ## 支持的环境（以下的iOS包括了iPadOS）
-iOS、Android（iOS版安装需要用到电脑或安装了Trollstore或已越狱的设备）
+* iOS（连接至PC或macOS）
+* iOS（使用[Trollstore](https://blog.6ziz.com/trollstore)）
+* iOS（越狱的设备）
+* Android 
 
 ## 下载方式
 * 从[Releases](https://github.com/LingFeng751/Arc-Dark/releases)获取  
@@ -29,6 +32,7 @@ iOS、Android（iOS版安装需要用到电脑或安装了Trollstore或已越狱
 ## 使用方法（苹果｜iOS、iPadOS）
 * [[Bilibili] iOS平台安装教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)  
 * [[Bilibili] iOS平台残片修改教程](https://www.bilibili.com/video/BV1TCV1zZEYc/)
+* [[Bilibili] iOS平台版本更新教程、不再可用的解决方法](https://www.bilibili.com/video/BV1sTe8zfEM7/)
 
 ## 我应选择Releases中Assets里的哪个？
 * `iOS.ArcDark.6.7.0.ipa.zip`iOS版Arcaea暗改整合包，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新，**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**  
