@@ -2,7 +2,7 @@
 
 [简中](README.md) | [繁中](README_zh-Hant.md) | [EN](README_en-US.md)
 
-## Arc-Dark项目介绍
+## ArcaeaDarkMode项目介绍
 深色模式的Arcaea，以助于在夜晚游玩Arcaea，降低视觉疲劳
 
 ## 适用人群
@@ -23,7 +23,7 @@
 * Android 
 
 ## 下载方式
-* 从[Releases](https://github.com/LingFeng751/Arc-Dark/releases)获取  
+* 从[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)获取  
 * 从[123网盘](https://www.123684.com/s/HOGzTd-WhG7H)中获取（每日每账号1GB下载不限速）  
 * 从[123网盘备用链接](https://www.123865.com/s/HOGzTd-WhG7H)中获取（每日每账号1GB下载不限速）  
 * 从[百度网盘](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中获取（提取码：`1145`，**无SVIP不推荐**）
