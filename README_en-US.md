@@ -1,5 +1,7 @@
 # This package is a free product. If you have paid for it, please request a refund immediately, leave a negative review and report it!!! 
 
+[简中(Simplified Chinese)](README.md) | [繁中(Traditional Chinese)](README_zh-Hant.md) | **[EN](README_en-US.md)**
+
 ## ArcaeaDarkMode Project Introduction
 * Dark mode for Arcaea, to facilitate playing Arcaea at night and reduce visual fatigue.   
 * **Attention, Android players! This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.**
