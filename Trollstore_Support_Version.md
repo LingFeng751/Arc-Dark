@@ -130,7 +130,8 @@
         iPhone7 系列｜Series<br>
         iPhone8 系列｜Series<br>
         iPhoneX 系列｜Series<br>
-        iPhone SE 1
+        iPhone SE 1<br>
+        iPod Touch (7)
       </td>
       <td>
         ∅
@@ -164,7 +165,6 @@
         iPad (7) 2019<br>
         iPad (6) 2018<br>
         iPad (5) 2017<br>
-        iPod Touch (7)
       </td>
       <td>
         iPad Air 2 <br>
