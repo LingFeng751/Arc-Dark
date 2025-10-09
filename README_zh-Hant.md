@@ -17,9 +17,9 @@
 [Arcaea - 創新立體節奏遊戲](https://arcaea.lowiro.com/)
 
 ## 支援的環境（以下的iOS包括了iPadOS）
-* iOS（連接至PC或macOS）
-* iOS（使用[Trollstore](https://blog.6ziz.com/trollstore)）
-* iOS（越獄的設備）
+* iOS 12.4+（連接至PC或macOS）
+* iOS 14.0~17.0<sup>[檢視受支援的iOS版本](Trollstore_Support_Version.md)</sup>（使用[Trollstore](https://blog.6ziz.com/trollstore)）
+* iOS 12.4+（安裝了[AFC2](https://www.i4.cn/news_detail_1623.html)和[APPsync](https://www.i4.cn/news_detail_21968.html)補丁的[越獄](https://www.i4.cn/index_search.action?type=3&model=1&k=%E8%B6%8A%E7%8B%B1)的設備）
 * Android 
 
 ## 下載方式
@@ -48,5 +48,6 @@
 1. 本項目一般在官方更新PO當天的下午13:00左右更新  
 2. 本項目本身是作者自用，僅做分享，且無任何形式的盈利  
 3. 如果你選擇了使用ArcDark暗改包，請默默的推分使用，不要使用成績截圖裝B，否則將導緻你被罵的很慘，影響過大甚至會導緻你的賬號被封禁
+
 
 
