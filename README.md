@@ -17,9 +17,9 @@
 [Arcaea - 创新立体节奏游戏](https://arcaea.lowiro.com/)
 
 ## 支持的环境（以下的iOS包括了iPadOS）
-* iOS（连接至PC或macOS）
-* iOS（使用[Trollstore](https://blog.6ziz.com/trollstore)）
-* iOS（越狱的设备）
+* iOS 12.4+（连接至PC或macOS）
+* iOS 14.0~17.0<sup>[查看受支持的iOS版本](Trollstore_Support_Version.md)</sup>（使用[Trollstore](https://blog.6ziz.com/trollstore)）
+* iOS 12.4+（安装了[AFC2](https://www.i4.cn/news_detail_1623.html)和[APPsync](https://www.i4.cn/news_detail_21968.html)补丁的[越狱](https://www.i4.cn/index_search.action?type=3&model=1&k=%E8%B6%8A%E7%8B%B1)的设备）
 * Android 
 
 ## 下载方式
