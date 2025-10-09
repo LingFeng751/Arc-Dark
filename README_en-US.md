@@ -18,9 +18,9 @@
 [Arcaea - New Dimension Rhythm Game](https://arcaea.lowiro.com/) 
 
 ## Supported Environments (The following iOS includes iPadOS)
-* iOS (Connected to PC or macOS)
-* iOS (Using [Trollstore](https://blog.6ziz.com/trollstore))
-* iOS (Jailbroken devices)
+* iOS 12.4+ (Connected to PC or macOS)
+* iOS 14.0~17.0<sup>[View Supported iOS Versions](Trollstore_Support_Version.md)</sup> (Using [Trollstore](https://trollstore.org/))
+* iOS 12.4+ ([Jailbroken](https://bing.com/search?q=how+to+jailbreak+iphone) devices with the [AFC2 and APPsync](https://www.3u.com/tutorial/articles/how-to-install-appsync-afc2-service) patches installed)
 * Android **(This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.)**
 
 ## Download Methods
