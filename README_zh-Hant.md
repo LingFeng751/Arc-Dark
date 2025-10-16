@@ -37,17 +37,20 @@
 * [[Bilibili] iOS平臺版本更新教程、不再可用的解決方法](https://www.bilibili.com/video/BV1sTe8zfEM7/)
 
 ## 我應選擇Releases中Assets裏的哪個？
-* `iOS.ArcDark.[版本號].ipa.zip`iOS版Arcaea暗改整合包，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新，**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**  
-* `Android.ArcDark.[版本號c].apk`安卓C版Arcaea暗改包，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新  
-* `iOS.Arcaea.[版本號].Original.ipa`原版iOS砸殼安裝包，未經任何修改，安裝後與App Store版本相同（無法使用應用內購買），**如果你不想自己修改貼圖，這不是你應該下載的版本**
-###    
-* `Android.ArcDark.[版本號c].BetaX.apk`安卓C版Arcaea**測試版**暗改包，**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新（會覆蓋掉正式版）
-* `iOS.ArcDark.[版本號].BetaX.ipa.zip`iOS版Arcaea**測試版**暗改整合包，**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新（會覆蓋掉正式版），**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**  
+| 文件名 | 說明  |
+|:------|:------|
+| `iOS.ArcDark.[版本號].ipa.zip` | iOS版Arcaea暗改整合包，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新，<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `Android.ArcDark.[版本號]c.apk` | 安卓C版Arcaea暗改包，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新 |
+| `iOS.Arcaea.[版本號].Original.ipa` | 原版iOS砸殼安裝包，未經任何修改，安裝後與App Store版本相同（無法使用應用內購買），<mark><ins>**如果你不想自己修改貼圖，這不是你應該下載的版本**</mark></ins> |
+| **測試版本** |  |
+| `Android.ArcDark.[版本號]c.BetaX.apk` | 安卓C版Arcaea<mark><ins>**測試版**</mark></ins>暗改包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新（會覆蓋掉正式版） |
+| `iOS.ArcDark.[版本號].BetaX.ipa.zip` | iOS版Arcaea<mark><ins>**測試版**</mark></ins>暗改整合包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新（會覆蓋掉正式版），<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 
 ## 註意事項
 1. 本項目一般在官方更新PO當天的下午13:00左右更新  
 2. 本項目本身是作者自用，僅做分享，且無任何形式的盈利  
 3. 如果你選擇了使用ArcDark暗改包，請默默的推分使用，不要使用成績截圖裝B，否則將導緻你被罵的很慘，影響過大甚至會導緻你的賬號被封禁
+
 
 
 
