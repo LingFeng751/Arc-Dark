@@ -4,7 +4,7 @@
 
 ## ArcaeaDarkMode Project Introduction
 * Dark mode for Arcaea, to facilitate playing Arcaea at night and reduce visual fatigue.   
-* **Attention, Android players! This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.**
+* <mark><ins>**Attention, Android players! This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.**</mark></ins>
 
 ## Applicable Users
 * Those troubled by astigmatism or other vision problems and unable to clearly see the light side of the screen
@@ -21,13 +21,13 @@
 * iOS 12.4+ (Connected to PC or macOS)
 * iOS 14.0~17.0<sup>[View Supported iOS Versions](Trollstore_Support_Version.md)</sup> (Using [Trollstore](https://trollstore.org/))
 * iOS 12.4+ ([Jailbroken](https://bing.com/search?q=how+to+jailbreak+iphone) devices with the [AFC2 and APPsync](https://www.3u.com/tutorial/articles/how-to-install-appsync-afc2-service) patches installed)
-* Android **(This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.)**
+* Android <mark><ins>**(This is the China-exclusive version of Arcaea, not the Google Play version, but the game data of the two are interconnected.)**</mark></ins>
 
 ## Download Methods
 * Get it from [Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)
 * Get it from [123 Pan](https://www.123684.com/s/HOGzTd-WhG7H) (1GB download per account per day with no speed limit)
 * Get it from [Backup Link of 123 Pan](https://www.123865.com/s/HOGzTd-WhG7H) (1GB download per account per day with no speed limit)
-* Get it from [Baidu Netdisk](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145) (Extraction code: `1145`, **Not recommended for non-SVIP users**) 
+* Get it from [Baidu Netdisk](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145) (Extraction code: `1145`, <mark><ins>**Not recommended for non-SVIP users**</mark></ins>) 
 
 ## Usage Method (Android)
 Choose a suitable download method from the download methods mentioned above, and install it directly after downloading. 
