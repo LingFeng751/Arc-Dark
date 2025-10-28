@@ -1,3 +1,5 @@
+![image](ArcaeaDarkModeBanner.png)
+
 # 此改包为免费产品，如果您付费得到，请立即退款+差评+举报！！！
 
 [简中](README.md) | [繁中](README_zh-Hant.md) | [EN(英语)](README_en-US.md)
