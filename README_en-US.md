@@ -1,3 +1,5 @@
+![image](ArcaeaDarkModeBanner.png)
+
 # This package is a free product. If you have paid for it, please request a refund immediately, leave a negative review and report it!!! 
 
 [简中(Simplified Chinese)](README.md) | [繁中(Traditional Chinese)](README_zh-Hant.md) | **[EN](README_en-US.md)**
