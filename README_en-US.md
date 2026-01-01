@@ -27,8 +27,8 @@
 
 ## Download Methods
 * Get it from [Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)
-* Get it from [123 Pan](https://www.123684.com/s/HOGzTd-WhG7H) (1GB download per account per day with no speed limit)
-* Get it from [Backup Link of 123 Pan](https://www.123865.com/s/HOGzTd-WhG7H) (1GB download per account per day with no speed limit)
+* Get it from [123 Pan](https://www.123684.com/s/HOGzTd-lY27H) (1GB download per account per day with no speed limit)
+* Get it from [Backup Link of 123 Pan](https://www.123684.com/s/HOGzTd-7Y27H) (1GB download per account per day with no speed limit)
 * Get it from [Baidu Netdisk](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145) (Extraction code: `1145`, <mark><ins>**Not recommended for non-SVIP users**</mark></ins>) 
 
 ## Usage Method (Android)
