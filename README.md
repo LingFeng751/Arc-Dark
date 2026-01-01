@@ -26,8 +26,8 @@
 
 ## 下载方式
 * 从[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)获取  
-* 从[123网盘](https://www.123684.com/s/HOGzTd-WhG7H)中获取（每日每账号1GB下载不限速）  
-* 从[123网盘备用链接](https://www.123865.com/s/HOGzTd-WhG7H)中获取（每日每账号1GB下载不限速）  
+* 从[123网盘](https://www.123684.com/s/HOGzTd-lY27H)中获取（每日每账号1GB下载不限速）  
+* 从[123网盘备用链接](https://www.123684.com/s/HOGzTd-7Y27H)中获取（每日每账号1GB下载不限速）  
 * 从[百度网盘](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中获取（提取码：`1145`，<mark><ins>**无SVIP不推荐**</mark></ins>）
 
 ## 使用方法（安卓｜Android）
