@@ -26,8 +26,8 @@
 
 ## 下載方式
 * 從[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)獲取  
-* 從[123網盤](https://www.123684.com/s/HOGzTd-WhG7H)中獲取（每日每賬號1GB下載不限速）  
-* 從[123網盤備用鏈接](https://www.123865.com/s/HOGzTd-WhG7H)中獲取（每日每賬號1GB下載不限速）  
+* 從[123網盤](https://www.123684.com/s/HOGzTd-lY27H)中獲取（每日每賬號1GB下載不限速）  
+* 從[123網盤備用鏈接](https://www.123684.com/s/HOGzTd-7Y27H)中獲取（每日每賬號1GB下載不限速）  
 * 從[百度網盤](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中獲取（提取碼：`1145`，<mark><ins>**無SVIP不推薦**</mark></ins>）
 
 ## 使用方法（安卓｜Android）
@@ -52,6 +52,7 @@
 1. 本項目一般在官方更新PO當天的下午13:00左右更新  
 2. 本項目本身是作者自用，僅做分享，且無任何形式的盈利  
 3. 如果你選擇了使用ArcDark暗改包，請默默的推分使用，不要使用成績截圖裝B，否則將導緻你被罵的很慘，影響過大甚至會導緻你的賬號被封禁
+
 
 
 
